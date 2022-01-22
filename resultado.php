@@ -211,7 +211,7 @@
         <div id="mapaYLista">
             <div id="cssMapa">
                 <div id="mapa"></div>
-                <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBEMmayrzyNe2Fdha6okaaLpuw-4PPqMRw&callback=inicio"></script>
+                <script async src="https://maps.googleapis.com/maps/api/js?key=yourAPIKEY&callback=inicio"></script>
             </div>
             <div id="lista">
                 <p>Conexion entre las estaciones:</p>
